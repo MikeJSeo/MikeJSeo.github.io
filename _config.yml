@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Michael Seo"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Ph.D. student in Biostatistics at University of Bern"
   location         : "Bern, Swtizerland"
   employer         :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
