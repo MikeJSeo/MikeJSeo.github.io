@@ -18,8 +18,8 @@ My research interests include Bayesian methods, (network) meta-analysis, and mac
 
 Ph.D. in Biostatistics, University of Bern (Expected 2022)
 
-M.S. in Statistics, Stanford University (Class of 2014)
+M.S. in Statistics, Stanford University
 
-B.S. in Statistics, Duke University (Class of 2011)
+B.S. in Statistics, Duke University
 
 
