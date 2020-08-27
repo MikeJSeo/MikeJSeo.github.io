@@ -15,9 +15,9 @@ Furukawa TA, Debray T, Akechi T, Yamada M, Kato T, **Seo M**, Efthimiou O (2020)
 <ins>[Can personalized treatment prediction improve the outcomes, compared with the group average approach, in a randomized
 trial? Developing and validating a multivariable prediction model in a pragmatic megatrial of acute
 treatment for major depression](https://www.sciencedirect.com/science/article/abs/pii/S0165032720300975)</ins>. 
-<em>Journal of Aective Disorders</em>, 274, 690-697.
+<em>Journal of Affective Disorders</em>, 274, 690-697.
 
 Khan MS, Khan AR, Khan AI, **Seo M**, Yasmin F, Usman MS, Moustafa A, Schmid CH, Kalra A, Ikram S (2020).
 <ins>[Comparison of revascularization strategies in patients with acute coronary syndrome and
 multivessel coronary disease: A systematic review and network meta-analysis](https://pubmed.ncbi.nlm.nih.gov/32222063/)</ins>. 
-<em>Catheter Cardiovasc Interv</em>, 1-8.
+<em>Catheterization and cardiovascular interventions</em>, 1-8.
