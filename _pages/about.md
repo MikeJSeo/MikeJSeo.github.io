@@ -14,5 +14,5 @@ I am currently a Ph.D. student in Biostatistics at the [Institute of Social and 
 
 My research interests include Bayesian methods, (network) meta-analysis, and machine learning. 
 
-I received my M.S. degree in Statistics at Stanford University and B.S. degree in Statistics at Duke University.
+I received my M.S. degree in Statistics at Stanford and B.S. degree in Statistics at Duke.
 
