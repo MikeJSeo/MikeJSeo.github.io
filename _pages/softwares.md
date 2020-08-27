@@ -5,7 +5,7 @@ permalink: /softwares/
 author_profile: true
 ---
 
-# R Packages
+# R packages
 
 **Michael Seo** and Christopher Schmid (2020). bnma: Bayesian Network Meta-Analysis using 'JAGS'.
 R package version 1.3.0. <ins>[https://CRAN.R-project.org/package=bnma](https://CRAN.R-project.org/package=bnma)</ins>.
