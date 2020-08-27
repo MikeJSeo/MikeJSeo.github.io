@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-(/images/profile.jpg)
+![Photo](/images/profile.jpg)
 
 I am a PhD student in Biostatistics at University of Bern. My research interests include network meta-analysis, Bayesian methods, and machine learning. I am currently working with Dr. Orestis Efthimiou.
