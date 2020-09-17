@@ -3,11 +3,11 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Softwares"
-    url: /softwares/    
-
   - title: "Conferences"
     url: /conferences/
+
+  - title: "Softwares"
+    url: /softwares/  
 
   - title: "CV"
     url: /files/michaelseo_cv.pdf    
