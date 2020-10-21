@@ -20,4 +20,4 @@ treatment for major depression](https://www.sciencedirect.com/science/article/ab
 Khan MS, Khan AR, Khan AI, **Seo M**, Yasmin F, Usman MS, Moustafa A, Schmid CH, Kalra A, Ikram S (2020).
 <ins>[Comparison of revascularization strategies in patients with acute coronary syndrome and
 multivessel coronary disease: A systematic review and network meta-analysis](https://pubmed.ncbi.nlm.nih.gov/32222063/)</ins>. 
-<em>Catheterization and cardiovascular interventions</em>, 1-8. **[R code](https://github.com/MikeJSeo/phd/tree/master/revascularization)**
+<em>Catheterization and cardiovascular interventions</em>, 96, E447-E454. **[R code](https://github.com/MikeJSeo/phd/tree/master/revascularization)**
