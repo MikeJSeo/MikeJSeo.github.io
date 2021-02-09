@@ -9,7 +9,7 @@ author_profile: true
 
 **Seo M**, White IR, Furukawa TA, Imai H, Valgimigli M, Egger M, Zwahlen M, Efthimiou O (2021). 
 <ins>[Comparing methods for estimating patient-specific treatment effects in individual patient
-data meta-analysis](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8859)</ins>.<em> Statistics in Medicine</em>, 1-21. **[R code](https://github.com/MikeJSeo/phd/tree/master/shrinkage)**
+data meta-analysis](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8859)</ins>.<em> Statistics in Medicine</em>, 40, 1553-1573. **[R code](https://github.com/MikeJSeo/phd/tree/master/shrinkage)**
 
 **Seo M**, Furukawa TA, Veroniki AA, Pillinger T, Tomlinson A, Salanti G, Cipriani A, Efthimiou O (2021).
 <ins>[The Kilim plot: A tool for visualizing network meta-analysis results for multiple outcomes](https://onlinelibrary.wiley.com/doi/abs/10.1002/jrsm.1428)</ins>.
