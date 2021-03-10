@@ -7,6 +7,10 @@ author_profile: true
 
 # Publications
 
+**Seo M**, Debray TPA, Ruffieux Y, Gsteiger S, Bujkiewicz S, Finckh A, Egger M, Efthimiou O (Submitted).
+<ins>[Combining individual patient data from randomized and non-randomized studies to predict
+real-world effectiveness of interventions]</ins>. **[R code](https://github.com/MikeJSeo/phd/tree/master/ra)**
+
 **Seo M**, White IR, Furukawa TA, Imai H, Valgimigli M, Egger M, Zwahlen M, Efthimiou O (2021). 
 <ins>[Comparing methods for estimating patient-specific treatment effects in individual patient
 data meta-analysis](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8859)</ins>.<em> Statistics in Medicine</em>, 40, 1553-1573. **[R code](https://github.com/MikeJSeo/phd/tree/master/shrinkage)**;**[R package](https://github.com/MikeJSeo/bipd)**;
