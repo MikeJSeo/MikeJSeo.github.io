@@ -23,7 +23,7 @@ Furukawa TA, Debray T, Akechi T, Yamada M, Kato T, **Seo M**, Efthimiou O (2020)
 <ins>[Can personalized treatment prediction improve the outcomes, compared with the group average approach, in a randomized
 trial? Developing and validating a multivariable prediction model in a pragmatic megatrial of acute
 treatment for major depression](https://www.sciencedirect.com/science/article/abs/pii/S0165032720300975)</ins>. 
-<em>Journal of Affective Disorders</em>, 274, 690-697. **[R code](https://github.com/esm-ispm-unibe-ch/shinies/blob/master/apps/sund/app.R)**
+<em>Journal of Affective Disorders</em>, 274, 690-697.
 
 Khan MS, Khan AR, Khan AI, **Seo M**, Yasmin F, Usman MS, Moustafa A, Schmid CH, Kalra A, Ikram S (2020).
 <ins>[Comparison of revascularization strategies in patients with acute coronary syndrome and
