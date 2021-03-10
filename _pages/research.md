@@ -9,17 +9,17 @@ author_profile: true
 
 **Seo M**, White IR, Furukawa TA, Imai H, Valgimigli M, Egger M, Zwahlen M, Efthimiou O (2021). 
 <ins>[Comparing methods for estimating patient-specific treatment effects in individual patient
-data meta-analysis](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8859)</ins>.<em> Statistics in Medicine</em>, 40, 1553-1573. **[R code](https://github.com/MikeJSeo/phd/tree/master/shrinkage)**
+data meta-analysis](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8859)</ins>.<em> Statistics in Medicine</em>, 40, 1553-1573. **[R code](https://github.com/MikeJSeo/phd/tree/master/shrinkage)**;**[R package](https://github.com/MikeJSeo/bipd)**;
 
 **Seo M**, Furukawa TA, Veroniki AA, Pillinger T, Tomlinson A, Salanti G, Cipriani A, Efthimiou O (2021).
 <ins>[The Kilim plot: A tool for visualizing network meta-analysis results for multiple outcomes](https://onlinelibrary.wiley.com/doi/abs/10.1002/jrsm.1428)</ins>.
-<em> Research Synthesis Methods</em>, 12, 86-95. **[R code](https://github.com/MikeJSeo/phd/tree/master/kilim)**
+<em> Research Synthesis Methods</em>, 12, 86-95. **[R code](https://github.com/MikeJSeo/phd/tree/master/kilim)**;**[Shiny app](https://cinema.ispm.unibe.ch/shinies/kilim/)**
 
 Furukawa TA, Debray T, Akechi T, Yamada M, Kato T, **Seo M**, Efthimiou O (2020).
 <ins>[Can personalized treatment prediction improve the outcomes, compared with the group average approach, in a randomized
 trial? Developing and validating a multivariable prediction model in a pragmatic megatrial of acute
 treatment for major depression](https://www.sciencedirect.com/science/article/abs/pii/S0165032720300975)</ins>. 
-<em>Journal of Affective Disorders</em>, 274, 690-697. **[Shiny app](https://cinema.ispm.unibe.ch/shinies/sund/)**
+<em>Journal of Affective Disorders</em>, 274, 690-697. **[R code](https://github.com/esm-ispm-unibe-ch/shinies/blob/master/apps/sund/app.R)**;**[Shiny app](https://cinema.ispm.unibe.ch/shinies/sund/)**
 
 Khan MS, Khan AR, Khan AI, **Seo M**, Yasmin F, Usman MS, Moustafa A, Schmid CH, Kalra A, Ikram S (2020).
 <ins>[Comparison of revascularization strategies in patients with acute coronary syndrome and
