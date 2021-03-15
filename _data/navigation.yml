@@ -10,7 +10,10 @@ main:
     url: /conferences/  
 
   - title: "CV"
-    url: /files/michaelseo_cv.pdf    
+    url: /files/cv.pdf    
+
+  - title: "RESUME"
+    url: /files/resume.pdf    
 
   - title: "Contact"
     url: /contact/

@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://mikejseo.github.io/files/michaelseo_cv.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://mikejseo.github.io/files/cv.pdf)
 
-<!-- <embed src="http://mikejseo.github.io/files/michaelseo_cv.pdf" width="650" height="1800" type='application/pdf'> -->
+<!-- <embed src="http://mikejseo.github.io/files/cv.pdf" width="650" height="1800" type='application/pdf'> -->
