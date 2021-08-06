@@ -7,6 +7,9 @@ author_profile: true
 
 # Selected Presentations
 
+2nd Year Examination. <em>Graduate School for Health Sciences, University of Bern</em>; May, 2021.
+<ins>[Slides](https://mikejseo.github.io/files/midterm.pdf)</ins> 
+
 bnma: Bayesian Network Meta-Analysis using 'JAGS'. <em>Evidence Synthesis and Meta-Analysis in R Conference</em>; January, 2021.
 <ins>[Slides](https://mikejseo.github.io/files/bnma.pdf)</ins> 
 
