@@ -7,6 +7,10 @@ author_profile: true
 
 # Selected Presentations
 
+Developing prediction models when there are systematically missing predictors in an individual patient data meta-analysis. 
+<em>Joint Statistical Meeting (JSM)</em>, Seattle; August, 2021.
+<ins>[Slides](https://mikejseo.github.io/files/JSM2021.pdf)</ins> 
+
 2nd Year Examination. <em>Graduate School for Health Sciences, University of Bern</em>; May, 2021.
 <ins>[Slides](https://mikejseo.github.io/files/midterm.pdf)</ins> 
 
