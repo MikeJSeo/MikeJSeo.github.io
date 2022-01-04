@@ -7,6 +7,10 @@ author_profile: true
 
 # Publications
 
+**Seo M**, Furukawa T, Karyotaki E, Efthimiou O (Submitted).
+<ins>Developing prediction models when there are systematically missing predictors in individual patient 
+data meta-analysis.</ins>. **[R code](https://github.com/MikeJSeo/phd/tree/master/missing)**
+
 Efthimiou O, **Seo M**, Karyotaki E, Cuijpers P, Furukawa T, Schwarzer G, Rücker G, Mavridis D (Under Revision).
 <ins>Bayesian models for aggregate and individual patient data component network meta-analysis</ins>.
 
