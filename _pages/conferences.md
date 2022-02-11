@@ -5,7 +5,7 @@ permalink: /conferences/
 author_profile: true
 ---
 
-# Selected Presentations
+# Presentations
 
 2nd Year Examination. <em>Graduate School for Health Sciences, University of Bern</em>; May, 2021.
 <ins>[Slides](https://mikejseo.github.io/files/midterm.pdf)</ins> 
