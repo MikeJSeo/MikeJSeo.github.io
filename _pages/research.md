@@ -11,9 +11,9 @@ author_profile: true
 <ins>Developing prediction models when there are systematically missing predictors in individual patient 
 data meta-analysis</ins>. **[R code](https://github.com/MikeJSeo/phd/tree/master/missing)**
 
-**Seo M**, Debray TPA, Ruffieux Y, Gsteiger S, Bujkiewicz S, Finckh A, Egger M, Efthimiou O (Under Revision).
+**Seo M**, Debray TPA, Ruffieux Y, Gsteiger S, Bujkiewicz S, Finckh A, Egger M, Efthimiou O (2022).
 <ins>Combining individual patient data from randomized and non-randomized studies to predict
-real-world effectiveness of interventions</ins>. **[R code](https://github.com/MikeJSeo/phd/tree/master/ra)**
+real-world effectiveness of interventions</ins>.<em> Statistical Methods in Medical Research</em>, To appear. **[R code](https://github.com/MikeJSeo/phd/tree/master/ra)**
 
 Efthimiou O, **Seo M**, Karyotaki E, Cuijpers P, Furukawa T, Schwarzer G, Rücker G, Mavridis D (2022).
 <ins>Bayesian models for aggregate and individual patient data component network meta-analysis</ins>.<em> Statistics in Medicine</em>, To appear.
