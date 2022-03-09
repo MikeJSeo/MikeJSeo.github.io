@@ -17,7 +17,7 @@ real-world effectiveness of interventions</ins>.<em> Statistical Methods in Medi
 
 Efthimiou O, **Seo M**, Karyotaki E, Cuijpers P, Furukawa T, Schwarzer G, Rücker G, Mavridis D (2022).
 <ins>[Bayesian models for aggregate and individual patient data component network meta-analysis](https://onlinelibrary.wiley.com/doi/10.1002/sim.9372)</ins>.
-<em> Statistics in Medicine</em>, To appear.
+<em> Statistics in Medicine</em>, To appear. **[R code](https://github.com/esm-ispm-unibe-ch/Bayesian-CNMA)**
 
 **Seo M**, White IR, Furukawa TA, Imai H, Valgimigli M, Egger M, Zwahlen M, Efthimiou O (2021). 
 <ins>[Comparing methods for estimating patient-specific treatment effects in individual patient
