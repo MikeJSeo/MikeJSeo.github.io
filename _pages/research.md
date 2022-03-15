@@ -7,6 +7,10 @@ author_profile: true
 
 # Publications
 
+Yoshida K, **Seo M**, Yan L, Sahker E, Cipriani A, Leucht S, Iwatsubo T, Efthimiou O, Furukawa TA (Submitted).
+<ins>Personalized prediction of Alzheimer’s disease and its treatment effects by donepezil: an individual participant data meta-analysis of eight randomized controlled trials</ins>.
+**[R code](https://github.com/MikeJSeo/phd/tree/master/donepezil)**
+
 **Seo M**, Furukawa TA, Karyotaki E, Efthimiou O (Submitted).
 <ins>Developing prediction models when there are systematically missing predictors in individual patient 
 data meta-analysis</ins>. **[R code](https://github.com/MikeJSeo/phd/tree/master/missing)**
