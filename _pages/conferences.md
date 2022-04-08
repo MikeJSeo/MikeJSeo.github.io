@@ -16,3 +16,5 @@ bnma: Bayesian Network Meta-Analysis using 'JAGS'. <em>Evidence Synthesis and Me
 The Kilim plot: a tool for visualizing network meta-analysis results for multiple outcomes (poster). 
 <em>41st Annual Conference of the International Society for Clinical Biostatistics (ISCB)</em>, Krakow; August, 2020.
 <ins>[Slides](https://mikejseo.github.io/files/ISCB2020_Kilim.pdf)</ins>
+
+Qualifying Exam Questions. <em>Department of Biostatistics, Brown University</em>. <ins>[Solutions](https://mikejseo.github.io/files/qual.pdf)</ins>.
