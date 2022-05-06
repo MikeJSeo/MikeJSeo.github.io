@@ -7,6 +7,9 @@ author_profile: true
 
 # Publications
 
+Efthimiou O, Hoogland J, Debray TPA, **Seo M**, Furukawa TA, Egger M, White I (Submitted).
+<ins>Measuring the performance of prediction models to personalize treatment choice</ins>.
+
 Yoshida K, **Seo M**, Yan L, Sahker E, Cipriani A, Leucht S, Iwatsubo T, Efthimiou O, Furukawa TA (Submitted).
 <ins>Personalized prediction of Alzheimer’s disease and its treatment effects by donepezil: an individual participant data meta-analysis of eight randomized controlled trials</ins>.
 **[R code](https://github.com/MikeJSeo/phd/tree/master/donepezil)**
