@@ -7,7 +7,7 @@ author_profile: true
 
 # Publications
 
-Efthimiou O, Hoogland J, Debray TPA, **Seo M**, Furukawa TA, Egger M, White I (Submitted).
+Efthimiou O, Hoogland J, Debray TPA, **Seo M**, Furukawa TA, Egger M, White IR (Submitted).
 <ins>Measuring the performance of prediction models to personalize treatment choice</ins>.
 
 Yoshida K, **Seo M**, Yan L, Sahker E, Cipriani A, Leucht S, Iwatsubo T, Efthimiou O, Furukawa TA (Submitted).
