@@ -6,9 +6,6 @@ main:
   - title: "Softwares"
     url: /softwares/  
 
-  - title: "Conferences"
-    url: /conferences/  
-
   - title: "CV"
     url: /files/cv.pdf    
 
