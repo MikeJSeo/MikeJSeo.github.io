@@ -8,7 +8,7 @@ author_profile: true
 # R packages
 
 **Michael Seo** (2022). bipd: Bayesian Individual Patient Data Meta-Analysis using 'JAGS'.
-R package version 0.1. <ins>[https://CRAN.R-project.org/package=bipd](https://CRAN.R-project.org/package=bipd)</ins>.
+R package version 0.3. <ins>[https://CRAN.R-project.org/package=bipd](https://CRAN.R-project.org/package=bipd)</ins>.
 
 **Michael Seo** and Christopher Schmid (2020). bnma: Bayesian Network Meta-Analysis using 'JAGS'.
 R package version 1.5.0. <ins>[https://CRAN.R-project.org/package=bnma](https://CRAN.R-project.org/package=bnma)</ins>.
