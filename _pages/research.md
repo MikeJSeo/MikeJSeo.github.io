@@ -21,7 +21,7 @@ data meta-analysis</ins>. **[R code](https://github.com/MikeJSeo/phd/tree/master
 **Seo M**, Debray TPA, Ruffieux Y, Gsteiger S, Bujkiewicz S, Finckh A, Egger M, Efthimiou O (2022).
 <ins>[Combining individual patient data from randomized and non-randomized studies to predict
 real-world effectiveness of interventions](https://journals.sagepub.com/doi/10.1177/09622802221090759)</ins>.
-<em> Statistical Methods in Medical Research</em>, To appear. **[R code](https://github.com/MikeJSeo/phd/tree/master/ra)**
+<em> Statistical Methods in Medical Research</em>, 31, 1355-1373. **[R code](https://github.com/MikeJSeo/phd/tree/master/ra)**
 
 Efthimiou O, **Seo M**, Karyotaki E, Cuijpers P, Furukawa T, Schwarzer G, Rücker G, Mavridis D (2022).
 <ins>[Bayesian models for aggregate and individual patient data component network meta-analysis](https://onlinelibrary.wiley.com/doi/10.1002/sim.9372)</ins>.
