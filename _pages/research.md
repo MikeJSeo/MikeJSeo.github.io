@@ -15,7 +15,8 @@ Efthimiou O, Hoogland J, Debray TPA, **Seo M**, Furukawa TA, Egger M, White IR (
 data meta-analysis</ins>. **[R code](https://github.com/MikeJSeo/phd/tree/master/missing)**
 
 Yoshida K, **Seo M**, Luo Y, Sahker E, Cipriani A, Leucht S, Iwatsubo T, Efthimiou O, Furukawa TA (2022).
-<ins>Personalized prediction of Alzheimer’s disease and its treatment effects by donepezil: an individual participant data meta-analysis of eight randomized controlled trials</ins>.
+<ins>[Personalized prediction of Alzheimer’s disease and its treatment effects by 
+donepezil: an individual participant data meta-analysis of eight randomized controlled trials](https://pubmed.ncbi.nlm.nih.gov/35988219/)</ins>.
 <em> Journal of Alzheimer’s disease</em>, 1-15. **[R code](https://github.com/MikeJSeo/phd/tree/master/donepezil)**
 
 **Seo M**, Debray TPA, Ruffieux Y, Gsteiger S, Bujkiewicz S, Finckh A, Egger M, Efthimiou O (2022).
