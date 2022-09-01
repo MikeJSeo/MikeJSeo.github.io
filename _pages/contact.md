@@ -4,6 +4,6 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Institute of Social and Preventive Medicine (ISPM), University of Bern <br>
-Mittelstrasse 43, 3012 Bern <br>
+Roche <br>
+Grenzacherstrasse 183, 4058 Basel
 Email: swj8874 [at] gmail.com

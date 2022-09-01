@@ -10,13 +10,13 @@ author_profile: true
 Efthimiou O, Hoogland J, Debray TPA, **Seo M**, Furukawa TA, Egger M, White IR (Submitted).
 <ins>Measuring the performance of prediction models to personalize treatment choice</ins>.
 
-Yoshida K, **Seo M**, Yan L, Sahker E, Cipriani A, Leucht S, Iwatsubo T, Efthimiou O, Furukawa TA (Submitted).
-<ins>Personalized prediction of Alzheimer’s disease and its treatment effects by donepezil: an individual participant data meta-analysis of eight randomized controlled trials</ins>.
-**[R code](https://github.com/MikeJSeo/phd/tree/master/donepezil)**
-
 **Seo M**, Furukawa TA, Karyotaki E, Efthimiou O (Submitted).
 <ins>Developing prediction models when there are systematically missing predictors in individual patient 
 data meta-analysis</ins>. **[R code](https://github.com/MikeJSeo/phd/tree/master/missing)**
+
+Yoshida K, **Seo M**, Luo Y, Sahker E, Cipriani A, Leucht S, Iwatsubo T, Efthimiou O, Furukawa TA (2022).
+<ins>Personalized prediction of Alzheimer’s disease and its treatment effects by donepezil: an individual participant data meta-analysis of eight randomized controlled trials</ins>.
+<em> Journal of Alzheimer’s disease</em>, 1-15. **[R code](https://github.com/MikeJSeo/phd/tree/master/donepezil)**
 
 **Seo M**, Debray TPA, Ruffieux Y, Gsteiger S, Bujkiewicz S, Finckh A, Egger M, Efthimiou O (2022).
 <ins>[Combining individual patient data from randomized and non-randomized studies to predict

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Michael Seo"
 title_separator          : "-"
 name                     : &name "Michael Seo"
-description              : &description "PhD Student in Biostatistics and Epidemiology at University of Bern"
+description              : &description "HTA Evidence Analysis Lead at Roche"
 url                      : https://mikejseo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mikejseo.github.io"
@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Michael Seo"
   avatar           : "profile.jpg"
-  bio              : "PhD Student in Biostatistics and Epidemiology at University of Bern"
-  location         : "Bern, Switzerland"
+  bio              : "HTA Evidence Analysis Lead at Roche"
+  location         : "Basel, Switzerland"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=6N-j25AAAAAJ"
   email            : 
