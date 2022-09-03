@@ -10,8 +10,6 @@ redirect_from:
 
 # About
 
-I work currently as a HTA Evidence Analysis Lead at Roche.
-
 I received my PhD in Biostatistics and Epidemiology at the Institute of Social and Preventive Medicine, University of Bern, advised by Dr. Orestis Efthimiou [[Google Scholar](https://scholar.google.gr/citations?user=Vnips7cAAAAJ&hl=en)]. 
 
 My research interests include Bayesian methods, (network) meta-analysis, and machine learning.
