@@ -7,12 +7,13 @@ author_profile: true
 
 # Publications
 
-Efthimiou O, Hoogland J, Debray TPA, **Seo M**, Furukawa TA, Egger M, White IR (Submitted).
-<ins>Measuring the performance of prediction models to personalize treatment choice</ins>.
-
 **Seo M**, Furukawa TA, Karyotaki E, Efthimiou O (Submitted).
 <ins>Developing prediction models when there are systematically missing predictors in individual patient 
 data meta-analysis</ins>. **[R code](https://github.com/MikeJSeo/phd/tree/master/missing)**
+
+Efthimiou O, Hoogland J, Debray TPA, **Seo M**, Furukawa TA, Egger M, White IR (2023).
+<ins>[Measuring the performance of prediction models to personalize treatment choice](https://onlinelibrary.wiley.com/doi/10.1002/sim.9665)</ins>.
+<em> Statistics in Medicine</em>, 1-19.
 
 Yoshida K, **Seo M**, Luo Y, Sahker E, Cipriani A, Leucht S, Iwatsubo T, Efthimiou O, Furukawa TA (2022).
 <ins>[Personalized prediction of Alzheimer’s disease and its treatment effects by 
