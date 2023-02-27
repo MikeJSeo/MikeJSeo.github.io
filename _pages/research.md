@@ -10,7 +10,7 @@ author_profile: true
 **Seo M**, Furukawa TA, Karyotaki E, Efthimiou O (2023).
 <ins>[Developing prediction models when there are systematically missing predictors in individual patient 
 data meta-analysis](https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1625)</ins>.
-<em> Research Synthesis Methods</em>. **[R code](https://github.com/MikeJSeo/phd/tree/master/missing)**
+<em> Research Synthesis Methods</em>, 1-13. **[R code](https://github.com/MikeJSeo/phd/tree/master/missing)**
 
 Efthimiou O, Hoogland J, Debray TPA, **Seo M**, Furukawa TA, Egger M, White IR (2023).
 <ins>[Measuring the performance of prediction models to personalize treatment choice](https://onlinelibrary.wiley.com/doi/10.1002/sim.9665)</ins>.
