@@ -14,7 +14,7 @@ data meta-analysis](https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1625)</ins>
 
 Efthimiou O, Hoogland J, Debray TPA, **Seo M**, Furukawa TA, Egger M, White IR (2023).
 <ins>[Measuring the performance of prediction models to personalize treatment choice](https://onlinelibrary.wiley.com/doi/10.1002/sim.9665)</ins>.
-<em> Statistics in Medicine</em>, 1-19.
+<em> Statistics in Medicine</em>, 42, 1188-1206.
 
 Yoshida K, **Seo M**, Luo Y, Sahker E, Cipriani A, Leucht S, Iwatsubo T, Efthimiou O, Furukawa TA (2022).
 <ins>[Personalized prediction of Alzheimer’s disease and its treatment effects by 
