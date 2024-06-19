@@ -10,6 +10,6 @@ redirect_from:
 
 # About
 
-I received my PhD in Biostatistics and Epidemiology at the Institute of Social and Preventive Medicine, University of Bern, advised by Dr. Orestis Efthimiou. 
+I received my PhD in Biostatistics and Epidemiology at the Institute of Social and Preventive Medicine, University of Bern, advised by Dr. Orestis Efthimiou.
 
-My research interests include Bayesian methods, (network) meta-analysis, and causal inference.
+For my daily work, I apply statistical methods such as indirect treatment comparison, network meta-analysis, and causal inference on clinical datasets.
