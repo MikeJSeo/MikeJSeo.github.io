@@ -7,6 +7,8 @@ author_profile: true
 
 # Publications
 
+Efthimiou O, **Seo M**, Chalkou K, Debray T, Egger M, Salanti G (2024). <ins>[Developing clinical prediction models: a step-by-step guide](https://www.bmj.com/content/386/bmj-2023-078276)</ins>.<em> BMJ</em>, 386.
+
 **Seo M**, Furukawa TA, Karyotaki E, Efthimiou O (2023).
 <ins>[Developing prediction models when there are systematically missing predictors in individual patient 
 data meta-analysis](https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1625)</ins>.
