@@ -7,6 +7,8 @@ author_profile: true
 
 # R packages
 
+Gregory Chen, **Michael Seo**, Isaac Gravestock. maicplus: Matching Adjusted Indirect Comparison. R package version 0.1.0. <ins>[https://hta-pharma-github.io/maicplus/](https://hta-pharma-github.io/maicplus/)</ins>.
+
 **Michael Seo** (2022). bipd: Bayesian Individual Patient Data Meta-Analysis using 'JAGS'.
 R package version 0.3. <ins>[https://CRAN.R-project.org/package=bipd](https://CRAN.R-project.org/package=bipd)</ins>.
 
