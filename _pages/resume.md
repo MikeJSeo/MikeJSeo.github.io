@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Resume"
-permalink: /michael_seo_resume/
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
