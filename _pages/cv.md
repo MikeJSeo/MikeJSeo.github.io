@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "CV"
-permalink: /michael_seo_cv/
+permalink: /cv/
 author_profile: true
 redirect_from:
-  - /michael_seo_cv
+  - /cv
 ---
 
 {% include base_path %}
