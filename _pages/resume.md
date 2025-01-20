@@ -4,7 +4,7 @@ title: "Resume"
 permalink: /michael_seo_resume/
 author_profile: true
 redirect_from:
-  - /michael_seo_resume
+  - /resume
 ---
 
 {% include base_path %}
