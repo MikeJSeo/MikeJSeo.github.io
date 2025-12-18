@@ -10,6 +10,6 @@ redirect_from:
 
 # About
 
-I received my PhD in Biostatistics and Epidemiology at the Institute of Social and Preventive Medicine, University of Bern, advised by Dr. Orestis Efthimiou. My thesis was on evidence synthesis methods for personalizing the choice of treatment.
+I received my PhD in Biostatistics and Epidemiology from the Institute of Social and Preventive Medicine (ISPM), University of Bern, under the supervision of Dr. Orestis Efthimiou. My doctoral research focused on developing evidence synthesis methodologies to support precision medicine and personalized treatment selection.
 
-For my daily work, I apply statistical methods such as indirect treatment comparison, network meta-analysis, and causal inference on clinical datasets.
+I leverage causal inference, indirect treatment comparisons (ITC), and network meta-analyses (NMA) to derive insights from clinical datasets.
