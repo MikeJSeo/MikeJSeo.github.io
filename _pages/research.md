@@ -7,6 +7,9 @@ author_profile: true
 
 # Publications
 
+Efthimiou, O, Chalkou, K, **Seo, M**, Pellegrini, F, Salanti, G, and Debray, T (2026). <ins>[Modeling personalized treatment effects using multiple data sources](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003300809-18/modeling-personalized-treatment-effects-using-multiple-data-sources-orestis-efthimiou-konstantina-chalkou-michael-seo-fabio-pellegrini-georgia-salanti-thomas-debray)</ins>. 
+<em> Comparative Effectiveness and Personalized Medicine Research Using Real-World Data </em>. Chapter 18, 464-484. CRC Press.
+
 Efthimiou O, **Seo M**, Chalkou K, Debray T, Egger M, Salanti G (2024). <ins>[Developing clinical prediction models: a step-by-step guide](https://www.bmj.com/content/386/bmj-2023-078276)</ins>.<em> BMJ</em>, 386. **[R code](https://github.com/esm-ispm-unibe-ch/R-guide-to-prediction-modelling)**
 
 **Seo M**, Furukawa TA, Karyotaki E, Efthimiou O (2023).
